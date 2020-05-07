@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">catdog</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="a_short_bio">A short Bio</string>
+    <string name="username">Username</string>
+    <string name="signup">SIGNUP</string>
+    <string name="error_message">ERROR MESSAGE</string>
+    <string name="register">Register</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="instagram">catdog</string>
+    <string name="login_to_your_app">Login to your app</string>
+    <string name="or">OR</string>
+    <string name="login">LOGIN</string>
+    <string name="set_display_picture">Set display picture</string>
+    <string name="profile">Profile</string>
+    <string name="todo">TODO</string>
+    <string name="post">Post</string>
+    <string name="time">time</string>
+    <string name="global">Global</string>
+    <string name="caption">Caption</string>
+    <string name="write_a_caption">Write a caption...</string>
+    <string name="auto_hashtags">Enable Auto Hashtags</string>
+    <string name="comment">Comment</string>
+    <string name="leave_some_comments">Leave some comments</string>
+    <string name="delete">Delete</string>
+</resources>
